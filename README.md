@@ -13,31 +13,40 @@ I'm a passionate engineer focused on building efficient systems, solving algorit
 
 <!-- You can automate this using GitHub Actions or keep it manual -->
 
-### 🔤 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🔤 Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### 🧰 Developer Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![JDatePicker](https://img.shields.io/badge/-JDatePicker-006699?style=flat)
-![Apache POI](https://img.shields.io/badge/-Apache%20POI-D22128?style=flat&logo=apache&logoColor=white)
+### 🛠 Developer Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDatePicker-006699?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20POI-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
 
-### ☁️ Cloud & Databases
-![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-0000FF?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 🛡 Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat)
+### 💾 Cloud & Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThingSpeak-0000FF?style=for-the-badge" />
+</p>
+
+### 🛡️ Cybersecurity Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge" />
+</p>
 
 ---
 
@@ -66,12 +75,20 @@ I'm a passionate engineer focused on building efficient systems, solving algorit
 -->
 ## 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-saksham070904gupta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sakshamgupta123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-gupta-7s4)
+<p align="left">
+  <a href="https://www.linkedin.com/in/saksham-gupta-7s4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saksham070904gupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/saks85">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+## “Code is like humor. When you have to explain it, it’s bad.”
 
 <!--
 **Saks85/Saks85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
