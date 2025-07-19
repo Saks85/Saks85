@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Saksham Gupta
 
 I'm a passionate engineer focused on building efficient systems, solving algorithmic problems, and exploring modern tech stacks.
@@ -21,11 +20,6 @@ I'm a passionate engineer focused on building efficient systems, solving algorit
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🧱 Frameworks & Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-FF0080?style=flat&logo=ultralytics&logoColor=white)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat)
 
 ### 🧰 Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
