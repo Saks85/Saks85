@@ -52,16 +52,16 @@ I'm a passionate engineer focused on building efficient systems, solving algorit
 
 ## 📊 GitHub Stats
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saks85&show_icons=true&theme=radical)
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saks85&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saks85&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saks85&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 LeetCode Stats (Real-Time)
+## 🧠 LeetCode Stats
 
 <!-- Leetcode readme card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/saks85?theme=light&font=Montserrat)](https://leetcode.com/saks85/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saks85?theme=dracula&font=JetBrains%20Mono)](https://leetcode.com/saks85/)
 
 ---
 <!--
