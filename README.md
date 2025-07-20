@@ -2,9 +2,9 @@
 
 I'm a passionate engineer focused on building efficient systems, solving algorithmic problems, and exploring modern tech stacks.
 
-- 🌱 I’m currently studying at R.V. College of Engineering 
-- 🚀 I love contributing to open-source and working on impactful projects
-- 🧠 I regularly solve problems on [LeetCode](https://leetcode.com/u/saks85)
+- 🌱 Currently studying at R.V. College of Engineering 
+- 🚀 Love contributing to open-source and working on impactful projects
+- 🧠 Grinding through DSA and exploring Machine Learning
 - ⚡ Fun fact: I automate almost everything I do
 
 ---
